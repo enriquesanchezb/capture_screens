@@ -1,0 +1,9 @@
+*.rdb
+*.pyc
+
+videos/*
+!videos/.gitkeep
+captures/*
+!captures/.gitkeep
+
+ENV/
